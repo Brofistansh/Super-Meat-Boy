@@ -123,6 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &33234494
 GameObject:
   m_ObjectHideFlags: 0
@@ -772,6 +773,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 384407809}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
 --- !u!1 &509208698
 GameObject:
   m_ObjectHideFlags: 0
@@ -840,6 +843,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &573962455
 GameObject:
   m_ObjectHideFlags: 0
@@ -1229,6 +1233,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 890878795}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
 --- !u!1 &1040514948
 GameObject:
   m_ObjectHideFlags: 0
@@ -1260,10 +1266,13 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1190942679}
+<<<<<<< HEAD
   - {fileID: 384407810}
   - {fileID: 1853880757}
   - {fileID: 33234495}
   - {fileID: 53312354}
+=======
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
   m_Father: {fileID: 1387880959}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1310,6 +1319,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1040514948}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &1153312037
 GameObject:
   m_ObjectHideFlags: 0
@@ -1347,6 +1357,8 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
 --- !u!1 &1190942678
 GameObject:
   m_ObjectHideFlags: 0
@@ -1423,6 +1435,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1190942678}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &1257809145
 GameObject:
   m_ObjectHideFlags: 0
@@ -1499,6 +1512,8 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+=======
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
 --- !u!1 &1264268164
 GameObject:
   m_ObjectHideFlags: 0
@@ -1583,6 +1598,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1337615398
 GameObject:
   m_ObjectHideFlags: 0
@@ -1755,6 +1771,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
 --- !u!1 &1387880955
 GameObject:
   m_ObjectHideFlags: 0
@@ -1767,7 +1785,10 @@ GameObject:
   - component: {fileID: 1387880958}
   - component: {fileID: 1387880957}
   - component: {fileID: 1387880956}
+<<<<<<< HEAD
   - component: {fileID: 1387880960}
+=======
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
   m_Layer: 5
   m_Name: MainMenu
   m_TagString: Untagged
@@ -1832,7 +1853,11 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
+<<<<<<< HEAD
   m_AdditionalShaderChannelsFlag: 25
+=======
+  m_AdditionalShaderChannelsFlag: 0
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -1857,6 +1882,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+<<<<<<< HEAD
 --- !u!82 &1387880960
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2153,3 +2179,5 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2145007502}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65
