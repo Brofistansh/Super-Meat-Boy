@@ -46,7 +46,9 @@ public class MapLoader : MonoBehaviour
     //     return pivotOffset;
     // }
     public Transform nextMapReference;
+    
     public GameObject mapPrefab;
+    // public GameObject emptyone;
  
 
     private Vector3 lastMapPosition;
@@ -60,6 +62,10 @@ public class MapLoader : MonoBehaviour
     {
         
             // Instantiate a new map at the position of the nextMapReference
+            // emptyone.SetActive("false");
+            if (collision.tag =="Player"){
+
+           
             GameObject newMap = Instantiate(mapPrefab, nextMapReference.position, Quaternion.identity);
 
             // Calculate the offset based on the size of the previous map's collider
@@ -73,6 +79,8 @@ public class MapLoader : MonoBehaviour
 
             // Update the nextMapReference to the new map's empty object
             nextMapReference = newMap.transform.Find("EmptyObject"); // Replace "EmptyObject" with the actual name of your empty object
+            // emptyone = newMap.Find("EmptyObject");
+             }
         
     }
 
