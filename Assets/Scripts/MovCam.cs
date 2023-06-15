@@ -6,12 +6,17 @@ public class MovCam : MonoBehaviour
 {
     public Transform rb;
     public Transform cam;
+    // public Vector3 pos;
+    public Vector3 offset;
+    public float damping ;
+    private Vector3 velocity = Vector3.zero ; 
 
     private void FixedUpdate() {
-        Vector3 position = rb.position;
-        position.z = -15;
-        position.y = 0;
-        
-        cam.position = position ;
+        Vector3 movePos = rb.position + offset;
+        movePos.z = -15;
+        movePos.y = cam.position.y;
+        transform.position = Vector3.SmoothDamp(transform.position , movePos , ref velocity , damping);
+      
+       
     }
 }
