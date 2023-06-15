@@ -1,0 +1,239 @@
+[33mcommit 11680871b4c76130afbf2588ad19108d66d7cac0[m[33m ([m[1;36mHEAD -> [m[1;32mAnsh[m[33m, [m[1;31morigin/Ansh[m[33m)[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Thu Jun 15 15:26:43 2023 +0530
+
+    scene linked
+
+[33mcommit ee2b42c99d7ddf5ab4d69090a8180acf2bbdd189[m
+Merge: 1cf51bd ec13d1a
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 23:23:50 2023 +0530
+
+    Merge pull request #11 from Brofistansh/krishna
+    
+    Endless level Funationally genereated
+
+[33mcommit ec13d1a64f2aa16f2f4b6b7cccdea35cff2ec378[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 23:22:06 2023 +0530
+
+    Endless level Funationally genereated
+
+[33mcommit 1cf51bd7c331f987c5d3ee29a595b04d0ea07a51[m
+Merge: 3d92b1b 60dfcb9
+Author: Brofistansh <131871144+Brofistansh@users.noreply.github.com>
+Date:   Wed Jun 14 23:09:31 2023 +0530
+
+    Merge pull request #10 from Brofistansh/Ansh
+    
+    Ansh
+
+[33mcommit 3d92b1b1e5f6d047b5f85662c49c771083186b79[m
+Merge: 1085e1e a543365
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 22:50:25 2023 +0530
+
+    Merge pull request #9 from Brofistansh/krishna
+    
+    Basic function added
+
+[33mcommit a54336502cb80f013b0a6d1399677f86397e2717[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 22:49:19 2023 +0530
+
+    Basic function added
+
+[33mcommit 60dfcb995bb1979a689d225b8b55816895c00697[m
+Merge: 34ca0e7 1085e1e
+Author: Brofistansh <131871144+Brofistansh@users.noreply.github.com>
+Date:   Wed Jun 14 22:31:18 2023 +0530
+
+    Merge pull request #8 from Brofistansh/data
+    
+    Data
+
+[33mcommit 1085e1e12df236a90bb3503e13695c67831f46e4[m[33m ([m[1;31morigin/data[m[33m, [m[1;32mdata[m[33m)[m
+Merge: 095af1b 4e1119e
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 18:31:23 2023 +0530
+
+    Merge pull request #7 from Brofistansh/krishna
+    
+    Krishna
+
+[33mcommit 4e1119ed6664e25d525de7a19de2d477ae943b43[m[33m ([m[1;31morigin/krishna[m[33m)[m
+Merge: 71ddb9b 095af1b
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 18:30:18 2023 +0530
+
+    another bug fixed
+
+[33mcommit 095af1b68728bb042e592ba317750d4bfb76038c[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 17:54:57 2023 +0530
+
+    Delete MainScene.unity.meta
+
+[33mcommit ab6b4d65a013733f430f7dffb488e8645c1536b5[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 17:54:43 2023 +0530
+
+    Delete MainScene.unity
+
+[33mcommit 71ddb9b84d3c469f18605a5670546eaffeea367a[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 17:53:19 2023 +0530
+
+    bug fixed
+
+[33mcommit 34ca0e71c2816ef8edba1745e132b4f9ee55546e[m
+Merge: 65e864a c84d5f6
+Author: Brofistansh <131871144+Brofistansh@users.noreply.github.com>
+Date:   Wed Jun 14 17:36:29 2023 +0530
+
+    Merge pull request #6 from Brofistansh/main
+    
+    check2
+
+[33mcommit c84d5f6904a5bbd5891b510433ccd0b41b42915c[m
+Merge: 7484382 c8f5a3c
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 17:05:35 2023 +0530
+
+    Resolved merge conflicts in Game.unity and StartScene.unity
+
+[33mcommit c8f5a3c9f3b0b6639513b40bd1e87702cb5c0e65[m
+Merge: fe59fce 65e864a
+Author: Brofistansh <131871144+Brofistansh@users.noreply.github.com>
+Date:   Wed Jun 14 17:00:46 2023 +0530
+
+    Merge pull request #5 from Brofistansh/Ansh
+    
+    Add game scene and loading screen
+
+[33mcommit 65e864aae5fc488d6a7ec9bbe3d50e1546367f95[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 16:53:34 2023 +0530
+
+    Add game scene and loading screen
+
+[33mcommit 7484382520e670db8606fa6466f4159cfc981703[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 16:44:34 2023 +0530
+
+    Game scene added and linked with StartScene and loading screen added
+
+[33mcommit d64de7873f2188e5255be4e29927e22e568cb203[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 15:59:15 2023 +0530
+
+    sound added to StartScene
+
+[33mcommit fe59fcefb584f14d88bfac1f72547d2784c85b87[m
+Merge: c9641ee 6d7afd8
+Author: Brofistansh <131871144+Brofistansh@users.noreply.github.com>
+Date:   Wed Jun 14 15:44:02 2023 +0530
+
+    Merge pull request #4 from Brofistansh/Ansh
+    
+    Ansh
+
+[33mcommit d88710788432b872f577df75062f26146f0bc67d[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 15:41:25 2023 +0530
+
+    endless scene started
+
+[33mcommit 6d7afd8180cba74e5ea43d4bb16fae3acdd92255[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 15:37:41 2023 +0530
+
+    loading screen added between StartScene and MainScene
+
+[33mcommit c440d6639c352ccd7f07af248df7985b6db3abdc[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 15:24:29 2023 +0530
+
+    maal added
+
+[33mcommit 0e8908718aae74a0fe619dfbccec9e12dfc8ca63[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 15:06:43 2023 +0530
+
+    game title added
+
+[33mcommit c9641eeed2fa123b0e7a9244cdf32fd1e36541c4[m
+Merge: dafdee4 024c6a3
+Author: Brofistansh <131871144+Brofistansh@users.noreply.github.com>
+Date:   Wed Jun 14 14:39:05 2023 +0530
+
+    Merge pull request #2 from Brofistansh/Ansh
+    
+    Ansh
+
+[33mcommit 024c6a3e8da9037d643a1256d010d3b880cb5e11[m
+Merge: dafdee4 c03aea9
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 14:36:09 2023 +0530
+
+    Resolved merge conflicts in MainScene.unity
+
+[33mcommit dafdee4daffe9a1b16437b594d78a7d353be62f9[m
+Merge: 4a89023 40841d3
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 13:58:45 2023 +0530
+
+    Merge pull request #3 from Brofistansh/krishna
+    
+    main scene added
+
+[33mcommit 40841d3d4676feada7238f8bd43a5b16040a84b0[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 13:51:06 2023 +0530
+
+    main scene added
+
+[33mcommit c03aea9cae7b02dce7f71a32699cdbfcd699774e[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 12:59:06 2023 +0530
+
+    start button added with custom fonts
+
+[33mcommit 28803f33eb8d21022207347ee188c95f0a9d6683[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 12:48:15 2023 +0530
+
+    MainScene Added
+
+[33mcommit 2986e3b545adcd2b5890f9c8d8b810b834915886[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 12:47:03 2023 +0530
+
+    custom font added
+
+[33mcommit a7e00877ad7112c11199d437e6eb825a18e61ecc[m
+Author: Brofistansh <jaiansh2016@gmail.com>
+Date:   Wed Jun 14 12:44:24 2023 +0530
+
+    images added
+
+[33mcommit 4a890230117dc4b6c6fa5a06d6f3cd3a4f75f53f[m
+Merge: c701d89 4b957fc
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 11:42:26 2023 +0530
+
+    Merge pull request #1 from Brofistansh/krishna
+    
+    sprite added
+
+[33mcommit 4b957fc39adde360d181d8ae0fc1180f44b93139[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 11:40:22 2023 +0530
+
+    sprite added
+
+[33mcommit c701d89e356c56bb8fa3c83ff4798331ef56286f[m
+Author: krishnabansal89 <83087345+krishnabansal89@users.noreply.github.com>
+Date:   Wed Jun 14 11:18:10 2023 +0530
+
+    initial commit done
